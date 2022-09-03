@@ -1,2 +1,0 @@
-"""DOCUMENTO PRUEBA GIT
-"""
