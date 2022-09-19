@@ -1,0 +1,17 @@
+/*aplicado a los archivos "2"*/
+
+#tabla {
+	color: rgb(148, 25, 50);
+	text-align: center;
+}
+#subtitulo-1 {
+	text-align: center;
+	color: darkgreen;
+}
+#subtitulo-2 {
+	text-align: center;
+	color: darkgreen;
+}
+.justificado {
+	text-align: justify;
+}
